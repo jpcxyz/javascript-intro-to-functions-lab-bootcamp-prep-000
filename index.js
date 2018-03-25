@@ -1,10 +1,10 @@
 function shout(string) {
-  return string.toUpperCase()
+  return string.toUpperCase("hello")
 }
 */returns string al all caps/*
 
 function whisper(string) {
-  return string.toLowerCase 
+  return string.toLowerCase(HELLO) 
 }
   */returns string as all lowercase/* 
 
