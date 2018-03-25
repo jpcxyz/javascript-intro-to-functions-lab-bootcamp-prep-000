@@ -14,4 +14,5 @@ console.log("logShout")
 
 function logWhisper
 console.log("logWhisper")
-*/ displays whisper via console.log /*
+*/ displays whisper via console.log / *
+
