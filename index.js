@@ -4,7 +4,7 @@ function shout(string) {
 */returns string al all caps/*
 
 function whisper(string) {
-  return string.toLowerCase(HELLO) 
+  return string.toLowerCase() 
 }
   */returns string as all lowercase/* 
 
