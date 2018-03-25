@@ -1,5 +1,5 @@
-function shout(string) {
-  return string.toUpperCase("hello")
+function shout("hello") {
+  return string.toUpperCase()
 }
 */returns string al all caps/*
 
